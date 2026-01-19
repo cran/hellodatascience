@@ -1,0 +1,26 @@
+Package: hellodatascience
+Type: Package
+Title: Datasets from the Hello Data Science Book
+Version: 0.1.0
+Authors@R: c(
+    person("Mine", "Dogucu", , "mdogucu@gmail.com", c("aut", "cre"), comment = c(ORCID = "0000-0002-8007-934X")), 
+    person("Catalina", "Medina", , role = "aut", comment = c(ORCID = "0000-0003-2847-8180")),
+    person("Alma", "Castro", , role = "aut")
+    )
+Description: Provides datasets used for analysis 
+  and visualizations in the open-access Hello Data Science book. 
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Depends: R (>= 3.5)
+URL: https://hellodata-science.github.io/hellodatascience/
+BugReports: https://github.com/hellodata-science/hellodatascience/issues
+NeedsCompilation: no
+Packaged: 2026-01-13 17:21:48 UTC; mdogucu
+Author: Mine Dogucu [aut, cre] (ORCID: <https://orcid.org/0000-0002-8007-934X>),
+  Catalina Medina [aut] (ORCID: <https://orcid.org/0000-0003-2847-8180>),
+  Alma Castro [aut]
+Maintainer: Mine Dogucu <mdogucu@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-01-19 17:40:02 UTC

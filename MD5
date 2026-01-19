@@ -1,0 +1,17 @@
+b67e9c58c76090edda8471f68c622280 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+a74a54dadf68c255140b129eebe0115d *NEWS.md
+0b4b2b36e3c37360ab74a6da9f6ecdd9 *R/data-atus-college.R
+501059273bbe1c2aa5dfe82328a1e037 *R/data-penn-world.R
+afa30a8006a3de05f8148b462896bc55 *R/data-planets.R
+a4725fe878ab9b35120bc25b53194998 *R/data-produce-prices.R
+1d12f08a47a5dcc06e70e5c7ca3ceeb8 *README.md
+d843360eb3a035dc94e72ca8fcc04b68 *data/atus_college.rda
+f869fcfe32b7cda1a5c6b878fbe9649d *data/penn_world.rda
+a9be4abbb7b71a47ffa16e184ceb6a03 *data/planets.rda
+5f7f667b55780abdd47f5ea0ad5a68e6 *data/produce_prices.rda
+4d23d00626512597d3629c5beecf2b0b *man/atus_college.Rd
+afc0813b3a6316cdd98c6bcd2999526a *man/figures/logo.png
+6884099a01681b627eae2dcb3f0b357a *man/penn_world.Rd
+b3e43d80ab1505796d5899df38835445 *man/planets.Rd
+3a69ea1d9fdbbfe00860b19062b60f51 *man/produce_prices.Rd
